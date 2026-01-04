@@ -3,8 +3,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import random
 
 # Spotify API Credentials (Replace these with your actual credentials)
-CLIENT_ID = "d05c6779b6ef4f1e92b2c4825dc1f797"
-CLIENT_SECRET = "8d7b090e6a7f4edea69be540fb425ac9"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 DEFAULT_GENRES = [
     "pop", "rock", "hip-hop", "electronic", "indie",
